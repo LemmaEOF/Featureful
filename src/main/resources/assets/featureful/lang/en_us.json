@@ -1,0 +1,6 @@
+{
+    "commands.featureful.enable.already_added": "Feature flag %s has already been enabled on this world",
+    "commands.featureful.enable.not_level": "Failed to enable feature flag: server world properties are not set as LevelProperties (This should not happen!)",
+    "commands.featureful.enabled.success": "Feature flag %s enable successfully - this server must be restarted or world must be reopened for changes to take effect!",
+    "commands.featureful.list": "There are %s feature flags enabled: %s"
+}

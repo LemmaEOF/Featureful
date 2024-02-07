@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "gay.lemmaeof.featureful.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "FeatureManagerAccessor",
+        "MixinFeatureFlags"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+	}
+}
